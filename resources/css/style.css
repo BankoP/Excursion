@@ -7,12 +7,14 @@ body {
 h1 {
   font-weight: normal;
   font-size: 50px;
-  color: white;
 }
 
 h2 {
   font-weight: 300;
   font-size: 42px;
+}
+
+h1, h2 {
   color: white;
 }
 
@@ -26,7 +28,6 @@ a {
   color: aquamarine;
 }
 
-.footer {
+footer {
   text-align: right;
-  color: gray;
 }
